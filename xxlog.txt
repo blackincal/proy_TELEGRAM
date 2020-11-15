@@ -1,0 +1,51 @@
+[2020-11-15]:[13:01] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:02] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[13:03] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:04] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:05] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:06] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:07] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:08] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:09] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:10] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:11] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:12] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:13] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:14] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:15] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:53] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[13:53] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:53] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:54] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:54] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[13:56] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[13:57] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[13:58] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[13:59] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:00] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:01] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:02] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:03] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:04] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:05] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:06] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:07] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:08] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:09] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:10] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:11] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:12] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:13] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[14:14] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:15] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[14:16] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:17] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:18] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:19] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[14:20] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:21] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:22] [A L E R T A] :: Se ha ejecutado telegram
+[2020-11-15]:[14:23] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:24] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:25] [A L E R T A] :: NO -- Se ha ejecutado telegram
+[2020-11-15]:[14:26] [A L E R T A] :: NO -- Se ha ejecutado telegram

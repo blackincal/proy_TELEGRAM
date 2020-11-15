@@ -1,0 +1,11 @@
+total 388
+drwxr-xr-x  3 david david  4096 Aug  1 22:54 .local
+-rw-r--r--  1 david david   516 Aug  1 22:54 .gtkrc-xfce
+-rw-r--r--  1 david david   807 Aug  1 22:54 .profile
+-rw-r--r--  1 david david   220 Aug  1 22:54 .bash_logout
+-rw-r--r--  1 david david    27 Aug  1 22:58 .dmrc
+drwxr-xr-x  2 david david  4096 Aug  1 22:58 Templates
+drwxr-xr-x  2 david david  4096 Aug  1 22:58 Public
+-rw-r--r--  1 david david     0 Aug  1 22:59 .sudo_as_admin_successful
+drwx------  5 david david  4096 Aug  1 23:02 .mozilla
+
